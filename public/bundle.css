@@ -1,0 +1,6 @@
+.container.svelte-1xiehf8{width:100%;max-width:800px;margin:0 auto}.header.svelte-1xiehf8{display:flex;flex-direction:column;align-items:center}.image.svelte-1xiehf8{text-align:center}
+.task-list.svelte-5atkkf{padding:0}
+.btn.svelte-15wo773{background-color:#ff3e00;color:#fff;cursor:pointer}.btn.svelte-15wo773:disabled{cursor:not-allowed}
+.completed.svelte-lf1th8{opacity:0.3;transition:opacity 0.2s}.completed.svelte-lf1th8:hover{opacity:1}.completed.svelte-lf1th8>.task-name.svelte-lf1th8{text-decoration:line-through;color:#2ed573}.task.svelte-lf1th8{list-style:none;padding:1rem 0;border-bottom:1px solid #f1f2f6;display:flex;justify-content:space-between;align-items:center}.task-name.svelte-lf1th8{width:750px}.checkbox.svelte-lf1th8{margin:0}.remove.svelte-lf1th8{width:50px;text-align:right;text-decoration:none}.remove.svelte-lf1th8:hover{cursor:pointer;color:tomato}
+
+/*# sourceMappingURL=bundle.css.map */
